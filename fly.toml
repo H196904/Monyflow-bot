@@ -1,0 +1,9 @@
+app = "monyflow-sd-bot"
+primary_region = "fra"
+
+[build]
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 256
